@@ -1,0 +1,1 @@
+# Lighthouse-No-Vagrant-Box
